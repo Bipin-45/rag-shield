@@ -1,0 +1,12 @@
+# Node modules (for React)
+client/node_modules/
+
+# Python virtual environment
+venv/
+
+# Environment variables (if you use one)
+.env
+
+# Logs and temp files
+*.log
+*.swp
